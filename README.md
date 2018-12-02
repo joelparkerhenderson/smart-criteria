@@ -1,19 +1,19 @@
 <!--
   * browser: smart-criteria
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 1.2.0
-  * updated: 2018-02-24T03:07:24Z
+  * version: 2.0.00
+  * updated: 2018-12-02T21:37:47Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
 # SMART criteria
 
-SMART criteria for goals, objectives, plans, etc.:
+SMART criteria for goals, objectives, plans, tasks, etc.:
 
-* Specific: target an area clearly and precisely.
-* Measurable: can be quantified and have an indicator of progress.
-* Achievable: able to be accomplished, and people know how to take action toward success.
+* Specific: target one area clearly and precisely.
+* Measurable: quantify progress toward success by using metrics.
+* Actionable: ready to start and possible to accomplish.
 * Relevant: connected to what else is being done or considered.
 * Timely: occurring at a favorable or useful time and opportune.
 
@@ -22,7 +22,7 @@ Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ## Specific
 
-Target an area clearly and precisely.
+Target one area clearly and precisely.
 
 Alternatives:
 
@@ -31,22 +31,21 @@ Alternatives:
 
 ## Measurable
 
-Can be quantified and have an indicator of progress.
+Quantify progress toward success by using metrics.
 
 Alternatives:
 
   * Motivating: stimulate interest in, or enthusiasm for, doing something.
 
 
-## Achievable
+## Actionable
 
-Able to be accomplished, and people know how to take action toward success.
-
+Ready to start and possible to accomplish.
+   
 Alternatives:
 
-  * Actionable: able to be done or acted on; having practical value.
+  * Achieveable, Accomplishable, Attainable: can be successfully completed.
   * Agreed: discussed or negotiated and then accepted by all parties.
-  * Attainable: able to be attained; achievable.
   * Action-oriented: willing or likely to take practical action to deal with a problem or situation.
   * Ambitious: intended to satisfy high aspirations and therefore difficult to achieve.
   * Aligned: coming together in agreement or alliance. 
