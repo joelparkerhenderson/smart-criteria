@@ -14,7 +14,7 @@ SMART criteria for goals, objectives, plans, tasks, etc.:
 * Specific: target one area clearly and precisely.
 * Measurable: quantify progress toward success by using metrics.
 * Actionable: ready to start and possible to accomplish.
-* Relevant: connected to what else is being done or considered.
+* Relevant: connected to what's being done, considered, and/or resourced.
 * Timely: occurring at a favorable or useful time and opportune.
 
 Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
@@ -41,15 +41,15 @@ Alternatives:
 ## Actionable
 
 Ready to start and possible to accomplish.
-   
+
 Alternatives:
 
   * Achieveable, Accomplishable, Attainable: can be successfully completed.
+  * Assignable: can be given to a person or team who are responsible.
   * Agreed: discussed or negotiated and then accepted by all parties.
   * Action-oriented: willing or likely to take practical action to deal with a problem or situation.
   * Ambitious: intended to satisfy high aspirations and therefore difficult to achieve.
-  * Aligned: coming together in agreement or alliance. 
-
+  * Aligned: coming together in agreement or alliance.
 
 ## Relevant
 
@@ -74,4 +74,3 @@ Alternatives:
   * Time-sensitive: has to be done by a particular time, or in a particular period.
   * Timeframe: a period of time, especially a specified period in which something occurs or is planned to take place.
   * Testable: able to be tested or tried.
-
