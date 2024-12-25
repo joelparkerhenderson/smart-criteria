@@ -19,6 +19,13 @@ SMART criteria for goals, objectives, plans, tasks, etc.:
 
 Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
 
+Related FAST criteria:
+
+* Frequently discussed: shape the key discussions for getting work done. 
+* Ambitious: intended to satisfy high aspirations and challenging to achieve.
+* Specific: target one area clearly and precisely.
+* Transparent: open, clear, and shared with the team and organization.
+
 
 ## Specific
 
@@ -44,11 +51,11 @@ Ready to start and possible to accomplish.
 
 Alternatives:
 
-  * Achieveable, Accomplishable, Attainable: can be successfully completed.
+  * Achievable, Accomplishable, Attainable: can be successfully completed.
   * Assignable: can be given to a person or team who are responsible.
   * Agreed: discussed or negotiated and then accepted by all parties.
   * Action-oriented: willing or likely to take practical action to deal with a problem or situation.
-  * Ambitious: intended to satisfy high aspirations and therefore difficult to achieve.
+  * Ambitious: intended to satisfy high aspirations and challenging to achieve.
   * Aligned: coming together in agreement or alliance.
 
 ## Relevant
@@ -74,3 +81,4 @@ Alternatives:
   * Time-sensitive: has to be done by a particular time, or in a particular period.
   * Timeframe: a period of time, especially a specified period in which something occurs or is planned to take place.
   * Testable: able to be tested or tried.
+  * Transparent: open, clear, and shared with the team and organization.
