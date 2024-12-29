@@ -32,14 +32,9 @@ Related FAST criteria:
 * Transparent: open, clear, and shared with the team and organization.
 
 
-
 ## Specific
 
 Target one area clearly and precisely.
-
-Alternatives:
-
-  * Strategic: relating to the identification of long-term or overall aims and interests and the means of achieving them.
 
 Questions that may help:
 
@@ -49,14 +44,14 @@ Questions that may help:
   * Results: What are any objectives, outcomes, impacts?
   * Phrasing: Can you use positive phrases and action verbs? 
 
+Alternatives:
+
+  * Strategic: relating to the identification of long-term or overall aims and interests and the means of achieving them.
+
 
 ## Measurable
 
 Quantify progress toward success by using metrics.
-
-Alternatives:
-
-  * Motivating: stimulate interest in, or enthusiasm for, doing something.
 
 Questions that may help:
 
@@ -66,10 +61,20 @@ Questions that may help:
   * What are any leading indicators and lagging indicators?
   * How do various stakeholders access the metrics?
 
+Alternatives:
+
+  * Motivating: stimulate interest in, or enthusiasm for, doing something.
+
 
 ## Achievable
 
 Able to start, able to continue, and able to accomplish.
+
+Questions that may help:
+
+  * Who is working on this? List any roles, responsibilities, participants, etc.
+  * What resources are needed? List any inputs, dependencies, materials, etc.
+  * How are the challenges? List any risks, assumptions, constraints, etc.
 
 Alternatives:
 
@@ -81,16 +86,17 @@ Alternatives:
   * Ambitious: intended to satisfy high aspirations and challenging to achieve.
   * Aligned: coming together in agreement or alliance.
 
-Questions that may help:
-
-  * Who is working on this? List any roles, responsibilities, participants, etc.
-  * What resources are needed? List any inputs, dependencies, materials, etc.
-  * How are the challenges? List any risks, assumptions, constraints, etc.
-
 
 ## Relevant
 
 Closely connected to what's happening and being considered.
+
+Questions that may help:
+
+  * Can you summarize the purpose, rationale, etc.?
+  * Can you summarize the context, connections, etc.?
+  * How does this relate to the participants, their roles, and goals?
+  * How does this interconnect with other work, such as positively or negatively?
 
 Alternatives:
 
@@ -100,17 +106,17 @@ Alternatives:
   * Reasonable: sensible, appropriate, and fair.
   * Results-based: focused on valuable outcomes.
 
-Questions that may help:
-
-  * Can you summarize the purpose, rationale, etc.?
-  * Can you summarize the context, connections, etc.?
-  * How does this relate to the participants, their roles, and goals?
-  * How does this interconnect with other work, such as positively or negatively?
-
 
 ## Timely
 
 Occurring at a favorable or useful time and opportune.
+
+Questions that may help:
+
+  * When is this happening?
+  * Why is the timing important?
+  * Where can participants see a timeline, or calendar, or schedule, etc.?
+  * Is there anything important that happens before this or after this?
 
 Alternatives:
 
@@ -121,22 +127,10 @@ Alternatives:
   * Testable: able to be tested or tried.
   * Transparent: open, clear, and shared with the team and organization.
 
-Questions that may help:
-
-  * When is this happening?
-  * Why is the timing important?
-  * Where can participants see a timeline, or calendar, or schedule, etc.?
-  * Is there anything important that happens before this or after this?
-
 
 ## Evaluate
 
 Examine the work progress, the participants' performance, and changes over time, and adjust as needed.
-
-Alternatives:
-
-  * Examine: look at something carefully in order to make judgments.
-  * Edit: make changes to something in order to improve it.
 
 Questions that may help:
 
@@ -144,18 +138,24 @@ Questions that may help:
   * What changes are possible, or recommended, during the work and after it?
   * How do the participants update their SMART criteria during work in progress?
 
+Alternatives:
+
+  * Examine: look at something carefully in order to make judgments.
+  * Edit: make changes to something in order to improve it.
+
 
 ## Reward
 
 Recognize success, acknowledge achievements.
-
-Alternatives:
-
-  * Reviewed: examined, or inspected, or approved.
-  * Retrospective: able to be looked back on, such as for lessons learned, or continuous improvement, etc.
 
 Questions that may help:
 
   * When milestones are reached, what kinds of rewards will be given?
   * Do participants have any ideas for rewards, or preferred rewards?
   * What are comparable rewards for similar work at other organizations?
+
+Alternatives:
+
+  * Reviewed: examined, or inspected, or approved.
+  * Retrospective: able to be looked back on, such as for lessons learned, or continuous improvement, etc.
+
