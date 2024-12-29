@@ -31,39 +31,39 @@ Related FAST criteria:
 
 Target one area clearly and precisely.
 
-Ideally include:
-
-  * Scope: what is in scope versus out of scope?
-  * Shared understanding: what is the terminology, vocabulary, etc.?
-
 Alternatives:
 
   * Strategic: relating to the identification of long-term or overall aims and interests and the means of achieving them.
+
+Questions that may help:
+
+  * Scope: What is in scope versus out of scope?
+  * Functionality: What are the inputs, processes, and outputs?
+  * Understanding: What is the terminology, ubiquitous language, etc.?
+  * Results: What are any objectives, outcomes, impacts?
+  * Phrasing: Can you use positive phrases and action verbs? 
 
 
 ## Measurable
 
 Quantify progress toward success by using metrics.
 
-Ideally include:
-
-  * What metrics are being used and why?
-  * How do stakeholders access the metrics?
-
 Alternatives:
 
   * Motivating: stimulate interest in, or enthusiasm for, doing something.
+
+Questions that may help:
+
+  * What metrics are being used and why?
+  * How do measurements help manage the work and improve it?
+  * What are the key performance indicators?
+  * What are any leading indicators and lagging indicators?
+  * How do various stakeholders access the metrics?
 
 
 ## Achievable
 
 Able to start, able to continue, and able to accomplish.
-
-Ideally include:
-
-  * Who is working on this? List any roles, responsibilities, etc.
-  * What resources are needed? List any inputs, dependencies, etc.
-  * What are the challenges? List any risks, assumptions, etc.
 
 Alternatives:
 
@@ -75,15 +75,16 @@ Alternatives:
   * Ambitious: intended to satisfy high aspirations and challenging to achieve.
   * Aligned: coming together in agreement or alliance.
 
+Questions that may help:
+
+  * Who is working on this? List any roles, responsibilities, etc.
+  * What resources are needed? List any inputs, dependencies, etc.
+  * What are the challenges? List any risks, assumptions, etc.
+
 
 ## Relevant
 
 Closely connected to what's happening and being considered.
-
-Ideally include:
-
-  * Why? Summarize the purpose, rationale, etc.
-  * How? Summarize the context, connections, etc.
 
 Alternatives:
 
@@ -93,16 +94,17 @@ Alternatives:
   * Reasonable: sensible, appropriate, and fair.
   * Results-based: focused on valuable outcomes.
 
+Questions that may help:
+
+  * Can you summarize the purpose, rationale, etc.?
+  * Can you summarize the context, connections, etc.?
+  * How does this relate to the participants, their roles, and goals?
+  * How does this interconnect with other work, such as positively or negatively?
 
 ## Timely
 
 Occurring at a favorable or useful time and opportune.
 
-Ideally include:
-
-  * When is this happening? Provide a timeline, calendar, schedule, etc.
-  * Why is the timing important? Provide a rationale, justification, etc.
-  
 Alternatives:
 
   * Trackable: can be tracked, or monitored, or analyzed.
@@ -111,3 +113,10 @@ Alternatives:
   * Timeframe: a period of time, especially a specified period in which something happens.
   * Testable: able to be tested or tried.
   * Transparent: open, clear, and shared with the team and organization.
+
+Questions that may help:
+
+  * When is this happening?
+  * Why is the timing important?
+  * Where can participants see a timeline, or calendar, or schedule, etc.?
+  * Is there anything important that happens before this or after this?
