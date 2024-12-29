@@ -19,12 +19,18 @@ SMART criteria for goals, objectives, plans, tasks, etc.:
 
 Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
 
+SMARTER criteria adds two letters:
+
+* Evaluate: examine the work in progress and after, to adjust as needed.
+* Reward: Recognize success, acknowledge achievements.
+
 Related FAST criteria:
 
 * Frequently discussed: shape the key discussions for getting work done. 
 * Ambitious: intended to satisfy high aspirations and challenging to achieve.
 * Specific: target one area clearly and precisely.
 * Transparent: open, clear, and shared with the team and organization.
+
 
 
 ## Specific
@@ -77,9 +83,9 @@ Alternatives:
 
 Questions that may help:
 
-  * Who is working on this? List any roles, responsibilities, etc.
-  * What resources are needed? List any inputs, dependencies, etc.
-  * What are the challenges? List any risks, assumptions, etc.
+  * Who is working on this? List any roles, responsibilities, participants, etc.
+  * What resources are needed? List any inputs, dependencies, materials, etc.
+  * How are the challenges? List any risks, assumptions, constraints, etc.
 
 
 ## Relevant
@@ -101,6 +107,7 @@ Questions that may help:
   * How does this relate to the participants, their roles, and goals?
   * How does this interconnect with other work, such as positively or negatively?
 
+
 ## Timely
 
 Occurring at a favorable or useful time and opportune.
@@ -120,3 +127,35 @@ Questions that may help:
   * Why is the timing important?
   * Where can participants see a timeline, or calendar, or schedule, etc.?
   * Is there anything important that happens before this or after this?
+
+
+## Evaluate
+
+Examine the work progress, the participants' performance, and changes over time, and adjust as needed.
+
+Alternatives:
+
+  * Examine: look at something carefully in order to make judgments.
+  * Edit: make changes to something in order to improve it.
+
+Questions that may help:
+
+  * What are lessons learned, both during the work and after it?
+  * What changes are possible, or recommended, during the work and after it?
+  * How do the participants update their SMART criteria during work in progress?
+
+
+## Reward
+
+Recognize success, acknowledge achievements.
+
+Alternatives:
+
+  * Reviewed: examined, or inspected, or approved.
+  * Retrospective: able to be looked back on, such as for lessons learned, or continuous improvement, etc.
+
+Questions that may help:
+
+  * When milestones are reached, what kinds of rewards will be given?
+  * Do participants have any ideas for rewards, or preferred rewards?
+  * What are comparable rewards for similar work at other organizations?
