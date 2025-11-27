@@ -15,7 +15,7 @@ SMART criteria for goals, objectives, plans, tasks, etc.:
 * Measurable: quantify progress toward success by using metrics.
 * Achievable: able to start, able to continue, and able to accomplish.
 * Relevant: closely connected to what's happening and being considered.
-* Timely: occurring at a favorable or useful time and opportune.
+* Timely: occurring at a time that is favorable, opportune, and bounded.
 
 Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
 
@@ -39,10 +39,10 @@ Target one area clearly and precisely.
 Questions that may help:
 
   * Scope: What is in scope versus out of scope?
-  * Functionality: What are the inputs, processes, and outputs?
+  * Functionality: What are the inputs, people, processes, and outputs?
   * Understanding: What is the terminology, ubiquitous language, etc.?
   * Results: What are any objectives, outcomes, impacts?
-  * Phrasing: Can you use positive phrases and action verbs? 
+  * Phrasing: Can you use positive phrases and action verbs?
 
 Alternatives:
 
@@ -73,8 +73,8 @@ Able to start, able to continue, and able to accomplish.
 Questions that may help:
 
   * Who is working on this? List any roles, responsibilities, participants, etc.
-  * What resources are needed? List any inputs, dependencies, materials, etc.
-  * How are the challenges? List any risks, assumptions, constraints, etc.
+  * What resources are needed? List any inputs, materials, budgets, approvals, etc.
+  * How are the challenges? List any risks, assumptions, issues, dependencies, etc.
 
 Alternatives:
 
@@ -97,6 +97,7 @@ Questions that may help:
   * Can you summarize the context, connections, etc.?
   * How does this relate to the participants, their roles, and goals?
   * How does this interconnect with other work, such as positively or negatively?
+  * Can you describe the impact, in terms that relate to adjacent goals and plans?
 
 Alternatives:
 
@@ -113,9 +114,10 @@ Occurring at a favorable or useful time and opportune.
 
 Questions that may help:
 
-  * When is this happening?
-  * Why is the timing important?
+  * When does this start and finish?
+  * Why is the timing important? For example a set duration or set deadline?
   * Where can participants see a timeline, or calendar, or schedule, etc.?
+  * How do you track the time spent versus the work in progress?
   * Is there anything important that happens before this or after this?
 
 Alternatives:
