@@ -13,8 +13,8 @@ SMART criteria for goals, objectives, plans, tasks, etc.:
 
 * Specific: target one area clearly and precisely.
 * Measurable: quantify progress toward success by using metrics.
-* Actionable: achievable, meaning able to start, sustain, and complete.
-* Relevant: closely connected to what's happening and being considered.
+* Actionable: able to start, sustain, and complete; achievable.
+* Relatable: causally and logically connected; relevant.
 * Timely: occurring at a time that is favorable, opportune, and bounded.
 
 Wikipedia: [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria)
